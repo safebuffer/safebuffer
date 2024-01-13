@@ -1,16 +1,29 @@
-### Hi there 👋
+A Risk taker, good listener and competitive person facing limitations with good communication, focusing on security research Windows environment and various Adversary Emulation/Red Team techniques 💬 Ask me about Adversary Emulation/Red Team/AppSec/Blockchain
 
-<!--
-**safebuffer/safebuffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
+![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safebuffer&show_icons=true&theme=radical)
+
+<br/>
+
+### 📫 How to reach me: 
+
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/safe_buffer)
